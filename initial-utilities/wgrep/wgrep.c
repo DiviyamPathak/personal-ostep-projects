@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc,char *argv[]){
-    printf("jk %s /n",argv[0]);
+    printf("j %s",argv[1]);
     
 }
